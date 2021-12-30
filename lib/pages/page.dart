@@ -308,7 +308,6 @@ class _MyHomePageState extends State<MyHomePage> {
       );
   }
   return listradiomajor;
-
   }
 
   List <Widget> createDrinkCheckbox() {
